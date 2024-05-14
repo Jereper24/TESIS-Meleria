@@ -5,4 +5,4 @@ class TiendaConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
     name = 'tienda'
 
-#COMENTARIO DE PRUEBA
+#COMENTARIO DE PRUEBA  TADEO NO LE ANDA LE PATINA EL EMBRA
